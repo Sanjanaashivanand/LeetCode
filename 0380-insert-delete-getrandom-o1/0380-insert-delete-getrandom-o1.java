@@ -22,7 +22,6 @@ class RandomizedSet {
         for(int obj : set)
         {
             if (i == item){
-                System.out.println(obj);
                 return obj;
             }
                 
