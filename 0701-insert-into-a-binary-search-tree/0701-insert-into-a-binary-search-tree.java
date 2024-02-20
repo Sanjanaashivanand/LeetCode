@@ -23,23 +23,29 @@ class Solution {
         }
         
         TreeNode temp = root;
+        
         while(true){
-            if(newNode.val < temp.val){
-                if(temp.left == null){
-                    temp.left = newNode;
-                    return root;
-                }
-                temp = temp.left;
-            }
-            else{
+            if(newNode.val > temp.val){
                 if(temp.right==null){
                     temp.right = newNode;
                     return root;
                 }
-                temp = temp.right;
+                else{
+                    temp = temp.right;
+                }
+            }
+            
+            else{
+                if(temp.left == null){
+                    temp.left = newNode;
+                    return root;
+                }
+                else{
+                    temp = temp.left;
+                }
             }
         }
+    }
         
         
     }
-}
