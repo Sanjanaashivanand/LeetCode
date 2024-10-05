@@ -17,10 +17,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -31,6 +33,7 @@
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
+| [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,4 +55,8 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
