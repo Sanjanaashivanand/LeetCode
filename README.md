@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [1002-maximum-width-ramp](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -47,6 +48,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Design
 |  |
@@ -65,6 +67,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
 ## Sliding Window
 |  |
@@ -97,4 +100,12 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
