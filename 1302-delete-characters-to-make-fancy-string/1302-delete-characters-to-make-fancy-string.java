@@ -1,21 +1,22 @@
 class Solution {
     public String makeFancyString(String s) {
-        StringBuilder res = new StringBuilder();
-        int count = 1; // Start count at 1 for the first character
-        res.append(s.charAt(0));
-        
-        for (int i = 1; i < s.length(); i++) {
-            if (s.charAt(i) == s.charAt(i - 1)) {
-                count++;
-            } else {
-                count = 1; // Reset count for a new character
+        StringBuilder sb = new StringBuilder();
+        sb.append(s.charAt(0));
+        int counter = 1;
+
+        for(int i=1; i<s.length(); i++){
+            if(s.charAt(i) != s.charAt(i-1)){
+                counter = 1;
             }
-            
-            if (count <= 2) {
-                res.append(s.charAt(i));
+            else{
+                counter++;
+            }
+
+            if(counter<=2){
+                sb.append(s.charAt(i));
             }
         }
-        
-        return res.toString();
+
+        return sb.toString();
     }
 }
