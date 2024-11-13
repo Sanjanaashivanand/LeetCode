@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0078-subsets) |
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -38,6 +40,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
