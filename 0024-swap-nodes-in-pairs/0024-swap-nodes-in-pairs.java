@@ -22,11 +22,11 @@ class Solution {
             odd.val = even.val;
             even.val = temp;
 
-            if(even!=null){
-                odd = even.next;
+            if(even.next!=null){
+                even = even.next.next;
             }
-            if(odd!=null){
-                even=odd.next;
+            if(odd.next!=null){
+                odd=odd.next.next;
             }
         }
 
