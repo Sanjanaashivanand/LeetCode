@@ -8,10 +8,11 @@ class Solution {
             return;
         }
 
-        List<Integer> copy = new ArrayList<>(path);
-        copy.add(nums[idx]);
-        generateSubarray(copy, idx+1);
+        List<Integer> temp = new ArrayList<>(path);
+        temp.add(nums[idx]);
+
         generateSubarray(path, idx+1);
+        generateSubarray(temp, idx+1);
     }
 
     public List<List<Integer>> subsets(int[] nums) {
