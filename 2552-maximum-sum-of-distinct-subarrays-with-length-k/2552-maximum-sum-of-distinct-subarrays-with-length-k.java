@@ -11,6 +11,7 @@ class Solution {
             window.put(nums[j], window.getOrDefault(nums[j], 0) + 1);
             currentSum += nums[j];
 
+            // If the window exceeds size k, shrink it from the left
             while (j - i + 1 > k) {
                 window.put(nums[i], window.get(nums[i]) - 1);
                 if (window.get(nums[i]) == 0) {
