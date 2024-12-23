@@ -6,11 +6,11 @@ class Solution {
             }
         }
 
-        // for(int j=0; j<n; j++){
-        //     if(nQueens[row][j] == 'Q'){
-        //         return false;
-        //     }
-        // }
+        for(int j=0; j<n; j++){
+            if(nQueens[row][j] == 'Q'){
+                return false;
+            }
+        }
 
         for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
             if (nQueens[i][j] == 'Q') {
