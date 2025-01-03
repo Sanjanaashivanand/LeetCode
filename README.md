@@ -64,6 +64,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
@@ -197,6 +198,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Prefix Sum
