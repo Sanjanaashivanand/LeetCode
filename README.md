@@ -31,6 +31,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1755-defuse-the-bomb](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2358-number-of-ways-to-split-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search
 |  |
