@@ -11,7 +11,7 @@ class Solution {
         for (int i = 2; i <= s.length(); i++) {
             // Single-digit decoding
             if (s.charAt(i - 1) != '0') {
-                dp[i] += dp[i - 1];
+                dp[i] = dp[i - 1];
             }
 
             // Two-digit decoding
