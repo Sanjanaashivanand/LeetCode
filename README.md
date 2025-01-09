@@ -38,6 +38,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -50,6 +51,7 @@
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
