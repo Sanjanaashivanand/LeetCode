@@ -28,6 +28,7 @@
 | [0322-coin-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0322-coin-change) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
+| [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -49,6 +50,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
+| [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -81,6 +83,7 @@
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
