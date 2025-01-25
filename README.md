@@ -49,6 +49,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
