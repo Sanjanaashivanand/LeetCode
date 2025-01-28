@@ -47,6 +47,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -122,6 +123,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,12 +211,14 @@
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
