@@ -20,6 +20,7 @@
 | [0046-permutations](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0136-single-number) |
@@ -181,6 +182,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -280,6 +282,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0139-word-break) |
