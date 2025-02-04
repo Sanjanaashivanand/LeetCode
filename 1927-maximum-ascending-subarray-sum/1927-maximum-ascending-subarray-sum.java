@@ -1,7 +1,7 @@
 class Solution {
     public int maxAscendingSum(int[] nums) {
-        int res = 0;  // Variable to store the maximum sum
-        int sum = nums[0];  // Start with the first element in the sum
+        int res = 0;  
+        int sum = nums[0];  
 
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] > nums[i - 1]) {  
