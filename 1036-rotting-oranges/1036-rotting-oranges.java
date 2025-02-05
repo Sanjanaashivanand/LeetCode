@@ -1,57 +1,55 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        Queue<Pair> queue = new LinkedList<>();
-        int fresh = 0;
-        int time = 0;
+        int n = grid.length; 
+        int m = grid[0].length;
 
-        int m = grid.length;
-        int n = grid[0].length;
+        Queue<int[]> q = new LinkedList<>();
+        boolean[][] visited = new boolean[n][m];
 
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(grid[i][j]==2){
-                    queue.add(new Pair<>(i,j));
-                }
-                else if(grid[i][j]==1){
-                    fresh++;
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(grid[i][j] == 2){
+                    q.add(new int[]{i, j});
+                    visited[i][j] = true;
                 }
             }
         }
 
-        int[][] directions = {{1,0}, {-1,0}, {0,-1}, {0,1}};
+        int count = -1;
+        int[][] directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
 
-        while(!queue.isEmpty() && fresh>0){
-            int len = queue.size();
+        while(!q.isEmpty()){
+            int size = q.size();
+            count++;
 
-            for(int i=0; i<len; i++){
-                Pair<Integer, Integer> cord = queue.poll();
-                int x = cord.getKey();
-                int y = cord.getValue();
+            for(int i=0; i<size; i++){
+                int[] cell = q.poll();
+                int row = cell[0];
+                int col = cell[1];
 
                 for(int[] dir: directions){
-                    int xn = x + dir[0];
-                    int yn = y + dir[1];
+                    int nx = row+dir[0];
+                    int ny = col+dir[1];
 
-                    if(xn<0 || xn>=m || 
-                        yn<0 || yn>=n){
-                            continue;
-                        }
-
-                    if(grid[xn][yn]==1){
-                        fresh--;
-                        grid[xn][yn]=2;
-                        queue.add(new Pair<>(xn, yn));
+                    if (nx >= 0 && nx < n && ny >= 0 && ny < m 
+                        && !visited[nx][ny] && grid[nx][ny] == 1) {
+                        visited[nx][ny] = true;
+                        grid[nx][ny] = 2;  
+                        q.add(new int[]{nx, ny});
                     }
                 }
             }
-            time++;
-
         }
 
-        if(fresh==0){
-            return time;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 1) {
+                    return -1; 
+                }
+            }
         }
-        return -1;
+
+        return count == -1 ? 0 : count;
 
     }
 }
