@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0125-valid-palindrome) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0046-permutations) |
@@ -290,6 +292,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0055-jump-game) |
