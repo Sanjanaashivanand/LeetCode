@@ -24,6 +24,7 @@
 | [0055-jump-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -240,6 +243,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0322-coin-change) |
@@ -254,6 +258,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
