@@ -34,6 +34,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0733-flood-fill) |
@@ -186,6 +187,7 @@
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1036-rotting-oranges) |
@@ -251,6 +253,7 @@
 | [0322-coin-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0733-flood-fill) |
@@ -325,6 +328,7 @@
 | [0322-coin-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
