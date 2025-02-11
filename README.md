@@ -370,6 +370,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1013-fibonacci-number) |
 ## Graph
