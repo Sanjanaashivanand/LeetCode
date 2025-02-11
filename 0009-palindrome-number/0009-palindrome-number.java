@@ -12,13 +12,7 @@ class Solution {
             x = x/10;
         }
 
-        while(num!=0 || rev!=0){
-            if(num%10 != rev%10){
-                return false;
-            }
-            num = num/10;
-            rev = rev/10;
-        }
+        if(num!=rev) return false;
 
         return true;
 
