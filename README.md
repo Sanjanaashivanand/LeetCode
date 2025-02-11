@@ -41,6 +41,7 @@
 | [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -152,6 +153,7 @@
 | [0547-number-of-provinces](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Design
@@ -192,6 +194,7 @@
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -260,6 +263,7 @@
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
@@ -269,6 +273,7 @@
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
