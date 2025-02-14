@@ -1,46 +1,44 @@
 class Solution {
-    public List<List<Integer>> permuteUnique(int[] nums) {
-        List<List<Integer>> results = new ArrayList<>();
+    private int[] nums;
+    private List<List<Integer>> res;
+    private int N;
 
-        // count the occurrence of each number
-        HashMap<Integer, Integer> counter = new HashMap<>();
-        for (int num : nums) {
-            if (!counter.containsKey(num)) counter.put(num, 0);
-            counter.put(num, counter.get(num) + 1);
-        }
-
-        LinkedList<Integer> comb = new LinkedList<>();
-        this.backtrack(comb, nums.length, counter, results);
-        return results;
-    }
-
-    protected void backtrack(
-        LinkedList<Integer> comb,
-        Integer N,
-        HashMap<Integer, Integer> counter,
-        List<List<Integer>> results
-    ) {
-        if (comb.size() == N) {
-            // make a deep copy of the resulting permutation,
-            // since the permutation would be backtracked later.
-            results.add(new ArrayList<Integer>(comb));
+    private void backtrack(ArrayList<Integer> path, HashMap<Integer, Integer> map){
+        if(path.size() == N){
+            res.add(new ArrayList<>(path));
             return;
         }
 
-        for (Map.Entry<Integer, Integer> entry : counter.entrySet()) {
-            Integer num = entry.getKey();
-            Integer count = entry.getValue();
-            if (count == 0) continue;
-            // add this number into the current combination
-            comb.addLast(num);
-            counter.put(num, count - 1);
+        for(int i: map.keySet()){
+            if(map.get(i)==0) continue;
+            
+            int count = map.get(i);
 
-            // continue the exploration
-            backtrack(comb, N, counter, results);
+            path.add(i);
+            map.put(i, count-1);
 
-            // revert the choice for the next exploration
-            comb.removeLast();
-            counter.put(num, count);
+            backtrack(path, map);
+
+            path.remove(path.size()-1);
+            map.put(i, count);
         }
+    }
+
+    public List<List<Integer>> permuteUnique(int[] nums) {
+        this.nums = nums;
+        this.N = nums.length;
+        this.res = new ArrayList<>();
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for(int i: nums){
+            map.put(i, map.getOrDefault(i, 0)+1);
+        }
+
+        ArrayList<Integer> path = new ArrayList<>();
+        backtrack(path, map);
+
+        return res;
+
     }
 }
