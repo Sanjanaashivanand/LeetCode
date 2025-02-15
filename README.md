@@ -193,6 +193,7 @@
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -399,6 +400,7 @@
 | [0231-power-of-two](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Graph
 |  |
 | ------- |
