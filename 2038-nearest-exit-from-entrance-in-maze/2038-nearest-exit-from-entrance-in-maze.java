@@ -40,27 +40,27 @@ class Solution {
 
         int res = Integer.MAX_VALUE;
 
-        // Check the first and last rows (top and bottom boundaries)
+        
         for (int i = 0; i < n; i++) {
             if (dis[0][i] != 0) {
-                res = Math.min(res, dis[0][i]);  // top row
+                res = Math.min(res, dis[0][i]);  
             }
             if (dis[m-1][i] != 0) {
-                res = Math.min(res, dis[m-1][i]);  // bottom row
+                res = Math.min(res, dis[m-1][i]);  
             }
         }
 
-        // Check the first and last columns (left and right boundaries)
+        
         for (int i = 0; i < m; i++) {
             if (dis[i][0] != 0) {
-                res = Math.min(res, dis[i][0]);  // left column
+                res = Math.min(res, dis[i][0]);  
             }
             if (dis[i][n-1] != 0) {
-                res = Math.min(res, dis[i][n-1]);  // right column
+                res = Math.min(res, dis[i][n-1]);  
             }
         }
 
-        // If no valid exit is found, return -1; otherwise, return the shortest distance
+        
         return res == Integer.MAX_VALUE ? -1 : res;
 
     }
