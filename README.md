@@ -52,6 +52,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2107-find-unique-binary-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -229,6 +230,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -310,6 +312,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
