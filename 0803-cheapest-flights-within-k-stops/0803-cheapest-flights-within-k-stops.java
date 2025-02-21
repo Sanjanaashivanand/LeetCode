@@ -48,7 +48,7 @@ class Solution {
                 int nextNode = destination.node;
                 int nextCost = cost + destination.cost;
 
-                // Only explore the path if it leads to a cheaper cost or fewer layovers
+                // Only explore the path if it leads to a cheaper cost and  fewer layovers
                 if (nextCost < dis[nextNode] && layovers + 1 < dis[nextNode]) {
                     dis[nextNode] = nextCost;
                     pq.offer(new Pair(nextNode, nextCost, layovers + 1));
@@ -56,7 +56,7 @@ class Solution {
             }
         }
 
-        // If no valid path is found to the destination, return -1
+       
         return dis[dst] == Integer.MAX_VALUE ? -1 : dis[dst];
     }
 }
