@@ -33,6 +33,7 @@ class Solution {
 
                 if(dis[R][C] + 1 < dis[nR][nC]){
                     dis[nR][nC] = dis[R][C] + 1;
+                    maze[nR][nC] = '+';
                     q.offer(new int[]{nR, nC});
                 }
             }
