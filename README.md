@@ -139,6 +139,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -258,6 +259,7 @@
 | [0055-jump-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -287,6 +289,7 @@
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1002-maximum-width-ramp](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -410,6 +413,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
