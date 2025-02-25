@@ -91,6 +91,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -185,6 +186,7 @@
 | [1073-number-of-enclaves](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Design
@@ -327,6 +329,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -378,6 +381,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
