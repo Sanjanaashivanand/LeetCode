@@ -5,12 +5,11 @@ class Solution {
         for (List<String> ticket : tickets) {
             String departure = ticket.get(0);
             String arrival = ticket.get(1);
-
             graph.computeIfAbsent(departure, k -> new PriorityQueue<>()).add(arrival);
         }
 
         List<String> newItinerary = new ArrayList<>();
-        Deque<String> stack = new ArrayDeque<>();
+        Stack<String> stack = new Stack<>();
         stack.push("JFK");
 
         while (!stack.isEmpty()) {
