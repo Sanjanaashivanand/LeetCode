@@ -90,6 +90,7 @@
 | [0127-word-ladder](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0202-happy-number) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0768-partition-labels) |
@@ -490,6 +492,7 @@
 | [0007-reverse-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1013-fibonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
