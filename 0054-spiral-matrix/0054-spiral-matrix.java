@@ -31,8 +31,8 @@ class Solution {
             //traverse from bottom to top
             for(int i=bottom; i>=top; i--){
                     result.add(matrix[i][left]);
-                }
-                left++;
+            }
+            left++;
             
         }
         return result;
