@@ -22,6 +22,7 @@
 | [0047-permutations-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0078-subsets) |
@@ -243,6 +244,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0130-surrounded-regions) |
@@ -422,6 +424,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
