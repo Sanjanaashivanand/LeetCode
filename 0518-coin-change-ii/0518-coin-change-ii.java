@@ -1,28 +1,17 @@
 class Solution {
-    public int find(int amount, int[] coins, int idx, int[][] dp) {
-        if (amount < 0 || idx >= coins.length) {
-            return 0;
-        }
-
-        if(dp[amount][idx]!=-1) return dp[amount][idx];
-
-        if (amount == 0) {
-            return 1;
-        }
-
-        int includeCurrentCoin = find(amount - coins[idx], coins, idx, dp);
-        int excludeCurrentCoin = find(amount, coins, idx + 1, dp);
-
-        return dp[amount][idx] = includeCurrentCoin + excludeCurrentCoin;
-    }
-
     public int change(int amount, int[] coins) {
-        int[][] dp = new int[amount+1][coins.length];
-        for(int i=0; i<=amount; i++){
-            for(int j=0; j<coins.length; j++){
-                dp[i][j] = -1;
+        // Initialize the dp array with 0's, and set dp[0] = 1
+        int[] dp = new int[amount + 1];
+        dp[0] = 1;  // There's 1 way to make 0 amount (use no coins)
+        
+        // Iterate through all coins
+        for (int coin : coins) {
+            // Update the dp array for each amount that can be formed using the current coin
+            for (int i = coin; i <= amount; i++) {
+                dp[i] += dp[i - coin];  // Add the ways to make (i - coin) to the current dp[i]
             }
         }
-        return find(amount, coins, 0, dp);
+        
+        return dp[amount];  // Return the number of ways to make the amount
     }
 }
