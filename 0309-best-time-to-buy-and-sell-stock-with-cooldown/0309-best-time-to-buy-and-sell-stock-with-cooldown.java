@@ -3,8 +3,6 @@ class Solution {
         int[][] dp = new int[prices.length+2][2];
         dp[prices.length][1] = 0;
         dp[prices.length][1] = 0;
-        dp[prices.length+1][1] = 0;
-        dp[prices.length+1][1] = 0;
 
         for(int i=prices.length-1; i>=0; i--){
             int profit;
@@ -13,8 +11,13 @@ class Solution {
                     profit = Math.max(-prices[i] + dp[i+1][0], dp[i+1][1]);
                 }
                 else{
-                    profit = Math.max(prices[i] + dp[i+2][1],
+                    if(i+2>prices.length){
+                        profit = prices[i];
+                    }
+                    else{
+                        profit = Math.max(prices[i] + dp[i+2][1],
                                     dp[i+1][0]);
+                    }
                 }
                 dp[i][buy] = profit;
             }
