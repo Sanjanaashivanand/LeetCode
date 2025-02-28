@@ -5,14 +5,8 @@ class Solution {
 
         for(int i=1; i<prices.length; i++){
             int profit = prices[i] - minSoFar;
-
-            if(profit > maxProfit){
-                maxProfit = profit;
-            }
-
-            if(prices[i] < minSoFar){
-                minSoFar = prices[i];
-            }
+            maxProfit = Math.max(profit, maxProfit);
+            minSoFar = Math.min(minSoFar, prices[i]);
         }
 
         return maxProfit;
