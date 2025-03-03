@@ -14,9 +14,8 @@ class Solution {
             }
         }
 
-        while(count>0){
+        for(int i=0; i<count; i++){
             copy[k++] = pivot;
-            count--;
         }
 
         for(int i=0; i<n; i++){
