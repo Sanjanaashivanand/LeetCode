@@ -156,6 +156,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0072-edit-distance) |
@@ -434,6 +435,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0231-power-of-two) |
@@ -463,6 +465,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0053-maximum-subarray) |
