@@ -38,6 +38,7 @@
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -480,6 +481,7 @@
 | [0139-word-break](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0338-counting-bits) |
