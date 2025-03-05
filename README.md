@@ -20,6 +20,7 @@
 | [0037-sudoku-solver](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0047-permutations-ii) |
@@ -102,6 +103,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0127-word-ladder) |
