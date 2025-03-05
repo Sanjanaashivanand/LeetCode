@@ -14,7 +14,6 @@ class Solution {
             }
         }
 
-        int count = 0;
         for(int j = 0; j < nums.length; j++) {
             if(nums[j] != j + 1) {
                 return j + 1;
