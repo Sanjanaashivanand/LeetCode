@@ -466,6 +466,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
@@ -581,6 +582,7 @@
 | [0029-divide-two-integers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0231-power-of-two) |
