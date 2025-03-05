@@ -168,6 +168,7 @@
 | [0022-generate-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
