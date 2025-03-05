@@ -17,6 +17,7 @@
 | [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0045-jump-game-ii) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0127-word-ladder) |
@@ -257,6 +259,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0046-permutations) |
@@ -275,6 +278,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
