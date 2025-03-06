@@ -32,6 +32,7 @@
 | [0063-unique-paths-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,6 +146,7 @@
 | [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
