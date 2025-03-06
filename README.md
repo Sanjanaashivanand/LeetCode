@@ -183,6 +183,7 @@
 | [0038-count-and-say](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
