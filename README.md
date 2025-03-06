@@ -147,6 +147,7 @@
 | [0031-next-permutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -470,6 +471,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0086-partition-list) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
