@@ -33,6 +33,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0078-subsets) |
@@ -190,6 +191,7 @@
 | [0043-multiply-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
@@ -511,6 +513,7 @@
 | [0043-multiply-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0068-text-justification) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
