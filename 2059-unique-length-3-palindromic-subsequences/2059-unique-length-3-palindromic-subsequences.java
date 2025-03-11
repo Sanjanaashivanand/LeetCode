@@ -7,6 +7,7 @@ class Solution {
         }
 
         int[] L = new int[26];
+        
         HashSet<Integer> S = new HashSet<>();
         for(char c: s.toCharArray()){
             map[c-'a']--;
