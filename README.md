@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -154,6 +155,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0061-rotate-list) |
@@ -174,6 +176,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0075-sort-colors) |
