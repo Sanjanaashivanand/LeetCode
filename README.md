@@ -76,6 +76,7 @@
 | [1364-tuple-with-same-product](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1524-string-matching-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -135,6 +136,7 @@
 | [1364-tuple-with-same-product](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -185,6 +187,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
+| [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -223,6 +226,7 @@
 | [1250-longest-common-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -399,6 +403,7 @@
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [1364-tuple-with-same-product](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2139-detect-squares](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2139-detect-squares) |
