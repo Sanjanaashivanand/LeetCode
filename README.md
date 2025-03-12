@@ -259,6 +259,7 @@
 | [2107-find-unique-binary-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
