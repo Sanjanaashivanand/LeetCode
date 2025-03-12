@@ -203,6 +203,7 @@
 | [0778-reorganize-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
 | [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [1970-sorting-the-sentence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -251,6 +252,7 @@
 | [1894-merge-strings-alternately](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1970-sorting-the-sentence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
