@@ -605,6 +605,7 @@
 | [0062-unique-paths](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0097-interleaving-string) |
@@ -679,6 +680,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1013-fibonacci-number) |
@@ -692,6 +694,7 @@
 | [0050-powx-n](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0231-power-of-two) |
