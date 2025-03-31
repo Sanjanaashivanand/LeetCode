@@ -557,6 +557,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
@@ -566,6 +567,7 @@
 | [0044-wildcard-matching](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
