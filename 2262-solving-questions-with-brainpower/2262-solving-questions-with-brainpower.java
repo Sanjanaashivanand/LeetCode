@@ -14,6 +14,13 @@ class Solution {
         return dp[curr] = Math.max(skip, take);
     }
 
+    // public long mostPoints(int[][] questions) {
+    //     int n = questions.length;
+    //     long[] dp = new long[n];
+    //     Arrays.fill(dp, -1);
+    //     return dpf(0, questions, dp);
+    // }
+
     public long mostPoints(int[][] questions) {
         int n = questions.length;
         long[] dp = new long[n+1];
