@@ -120,6 +120,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
