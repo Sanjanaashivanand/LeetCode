@@ -45,6 +45,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -371,6 +372,7 @@
 | [0064-minimum-path-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
@@ -463,6 +465,7 @@
 | [0042-trapping-rain-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1002-maximum-width-ramp](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -477,6 +480,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Data Stream
 |  |
@@ -624,6 +628,7 @@
 | [0064-minimum-path-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0115-distinct-subsequences) |
