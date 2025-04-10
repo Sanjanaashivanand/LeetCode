@@ -64,6 +64,7 @@
 | [0221-maximal-square](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0221-maximal-square) |
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0312-burst-balloons) |
@@ -216,6 +217,7 @@
 | [0242-valid-anagram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0242-valid-anagram) |
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
@@ -804,4 +806,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
