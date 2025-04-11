@@ -21,6 +21,7 @@
 | [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -694,6 +695,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
