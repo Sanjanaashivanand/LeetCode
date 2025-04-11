@@ -81,6 +81,7 @@
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
 | [0881-loud-and-rich](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0881-loud-and-rich) |
@@ -698,6 +699,7 @@
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0792-binary-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
