@@ -275,6 +275,7 @@
 | [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -491,6 +492,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1002-maximum-width-ramp](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
