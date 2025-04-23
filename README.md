@@ -545,6 +545,7 @@
 | [1036-rotting-oranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -796,6 +797,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0881-loud-and-rich) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1300-critical-connections-in-a-network](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
