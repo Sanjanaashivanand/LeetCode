@@ -343,6 +343,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -549,6 +550,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -623,6 +625,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
