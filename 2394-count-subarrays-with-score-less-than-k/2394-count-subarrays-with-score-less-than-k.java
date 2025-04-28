@@ -17,8 +17,6 @@ class Solution {
             res += j-i+1;
         }
 
-
-
         return res;
     }
 }
