@@ -40,13 +40,16 @@ class Solution {
             for(int s=size; s>0; s--){
 
                 int[] curr = q.poll();
-                int r = curr[0], c = curr[1];
+                int r = curr[0];
+                int c = curr[1];
 
                 for(int[] dir : DIRECTIONS){
-                    int nr = r + dir[0], nc = c + dir[1];
+                    int nr = r + dir[0];
+                    int nc = c + dir[1];
+
                     if(nr < 0 || nr >= m || nc < 0 || nc >= n || vis[nr][nc]) continue;
 
-                    if(grid[nr][nc] == 1) return steps; 
+                    if(grid[nr][nc] == 1) return steps; //Found the second island
 
                     q.offer(new int[]{nr, nc});
                     vis[nr][nc] = true;
