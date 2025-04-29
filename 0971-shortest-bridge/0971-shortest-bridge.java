@@ -33,24 +33,29 @@ class Solution {
 
         // Step 2: BFS from all marked cells
         int steps = 0;
+
         while(!q.isEmpty()){
             int size = q.size();
-            while(size-- > 0){
+
+            for(int s=size; s>0; s--){
+
                 int[] curr = q.poll();
                 int r = curr[0], c = curr[1];
+
                 for(int[] dir : DIRECTIONS){
                     int nr = r + dir[0], nc = c + dir[1];
                     if(nr < 0 || nr >= m || nc < 0 || nc >= n || vis[nr][nc]) continue;
 
-                    if(grid[nr][nc] == 1) return steps; // Found second island
+                    if(grid[nr][nc] == 1) return steps; 
 
                     q.offer(new int[]{nr, nc});
                     vis[nr][nc] = true;
                 }
+
             }
             steps++;
         }
 
-        return -1; // Shouldn't happen
+        return -1; 
     }
 }
