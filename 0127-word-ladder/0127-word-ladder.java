@@ -29,7 +29,6 @@ class Solution {
                     sb.setCharAt(i, c);
                     String check = sb.toString();
                     if(wordSet.contains(check)){
-                        System.out.println(check);
                         q.offer(new Pair(check, curr.dis+1));
                         wordSet.remove(check);
                     }
