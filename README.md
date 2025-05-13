@@ -155,6 +155,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0037-sudoku-solver) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0022-generate-parentheses) |
@@ -806,6 +808,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0050-powx-n) |
