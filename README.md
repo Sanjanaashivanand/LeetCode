@@ -299,6 +299,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0742-to-lower-case](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0812-rotate-string) |
