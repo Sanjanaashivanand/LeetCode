@@ -8,7 +8,6 @@ class Solution(object):
             sub = s[:i]
             if len(s)%len(sub)!=0: continue
             n = len(s)/len(sub)
-            print(sub)
             if sub * n == s: return True
         
         return False
