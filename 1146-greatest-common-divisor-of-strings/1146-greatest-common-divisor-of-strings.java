@@ -8,7 +8,7 @@ class Solution {
         int i = 0;
         int j = str2.length()-1;
 
-        while(j>=0){
+        for(j=m; j>=0; j--){
             if(n % (j - i + 1) == 0 && m % (j - i + 1) == 0){
                 String substring = str2.substring(i, j-i+1);
 
@@ -31,8 +31,6 @@ class Solution {
 
                 return substring;
             }
-
-            j--;
         }
 
         return "";
