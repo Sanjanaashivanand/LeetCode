@@ -203,6 +203,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0061-rotate-list) |
@@ -258,6 +259,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0038-count-and-say) |
@@ -619,6 +621,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
