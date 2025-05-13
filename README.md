@@ -83,6 +83,7 @@
 | [0542-01-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0740-delete-and-earn) |
@@ -534,6 +535,7 @@
 | [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0682-baseball-game) |
 | [1002-maximum-width-ramp](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -686,6 +688,7 @@
 | [0054-spiral-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0068-text-justification) |
+| [0682-baseball-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
