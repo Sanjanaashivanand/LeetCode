@@ -113,6 +113,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -822,6 +823,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
