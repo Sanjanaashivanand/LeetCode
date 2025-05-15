@@ -104,6 +104,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
@@ -184,6 +185,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1364-tuple-with-same-product](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -451,6 +453,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -691,6 +694,7 @@
 | [0068-text-justification](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0682-baseball-game) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
