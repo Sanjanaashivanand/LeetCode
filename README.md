@@ -12,6 +12,7 @@
 | [1390-average-selling-price](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1390-average-selling-price) |
 | [1541-top-travellers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1541-top-travellers) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2087-confirmation-rate) |
 ## Array
 |  |
