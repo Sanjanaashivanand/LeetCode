@@ -113,6 +113,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1677-matrix-diagonal-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -461,6 +462,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
