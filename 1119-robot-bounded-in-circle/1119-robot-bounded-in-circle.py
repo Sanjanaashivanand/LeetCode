@@ -6,7 +6,6 @@ class Solution(object):
         """
         pos = [0, 0]
         turns = [[0, 1], [1, 0], [0, -1], [-1, 0]]
-        dir = turns[2]
         curr = 0
 
         for i in instructions:
