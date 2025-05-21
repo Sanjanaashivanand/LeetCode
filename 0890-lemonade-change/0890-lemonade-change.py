@@ -4,7 +4,7 @@ class Solution(object):
         :type bills: List[int]
         :rtype: bool
         """
-        fives = tens = twenties = 0
+        fives = tens = 0
         for i in bills:
             if i == 5:
                 fives+=1
@@ -14,7 +14,6 @@ class Solution(object):
                     return False
                 fives -= 1
             else:
-                twenties += 1
                 if tens <= 0:
                     if fives >= 3:
                         fives -= 3
