@@ -99,6 +99,7 @@
 | [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
 | [0971-shortest-bridge](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0971-shortest-bridge) |
 | [1002-maximum-width-ramp](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1018-largest-perimeter-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -263,6 +264,7 @@
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
+| [1018-largest-perimeter-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -504,6 +506,7 @@
 | [0778-reorganize-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -849,6 +852,7 @@
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1236-n-th-tribonacci-number) |
