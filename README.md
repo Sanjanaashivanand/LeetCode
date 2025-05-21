@@ -94,6 +94,7 @@
 | [0794-swim-in-rising-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
 | [0881-loud-and-rich](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0881-loud-and-rich) |
+| [0890-lemonade-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0932-monotonic-array) |
 | [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
 | [0971-shortest-bridge](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0971-shortest-bridge) |
@@ -502,6 +503,7 @@
 | [0768-partition-labels](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0890-lemonade-change) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
