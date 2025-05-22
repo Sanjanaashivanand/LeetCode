@@ -373,6 +373,7 @@
 | [0207-course-schedule](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -595,6 +596,7 @@
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -704,6 +706,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -716,6 +719,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Simulation
