@@ -182,6 +182,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -312,6 +313,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -543,6 +545,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0778-reorganize-string) |
 | [1364-tuple-with-same-product](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1364-tuple-with-same-product) |
