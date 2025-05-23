@@ -92,6 +92,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0817-design-hashmap](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
 | [0881-loud-and-rich](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0890-lemonade-change) |
@@ -191,6 +192,7 @@
 | [0740-delete-and-earn](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0778-reorganize-string) |
+| [0817-design-hashmap](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
@@ -412,6 +414,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
+| [0817-design-hashmap](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0817-design-hashmap) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1708-design-parking-system](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1708-design-parking-system) |
@@ -696,6 +699,7 @@
 | [0206-reverse-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0817-design-hashmap](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -847,6 +851,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
