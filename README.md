@@ -78,6 +78,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0422-valid-word-square](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0422-valid-word-square) |
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0518-coin-change-ii) |
@@ -471,6 +472,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0422-valid-word-square](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0422-valid-word-square) |
 | [0542-01-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0733-flood-fill) |
