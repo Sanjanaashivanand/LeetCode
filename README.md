@@ -900,6 +900,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1069-confusing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1069-confusing-number) |
 | [1119-robot-bounded-in-circle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1236-n-th-tribonacci-number) |
