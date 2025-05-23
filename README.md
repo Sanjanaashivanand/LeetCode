@@ -57,6 +57,7 @@
 | [0135-candy](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0139-word-break) |
+| [0163-missing-ranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0163-missing-ranges) |
 | [0189-rotate-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
