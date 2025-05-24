@@ -206,6 +206,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1512-design-underground-system](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1512-design-underground-system) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -341,6 +342,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1512-design-underground-system](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1512-design-underground-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -423,6 +425,7 @@
 | [0860-design-circular-queue](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0860-design-circular-queue) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1512-design-underground-system](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1512-design-underground-system) |
 | [1708-design-parking-system](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1708-design-parking-system) |
 | [2139-detect-squares](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2139-detect-squares) |
 ## Trie
