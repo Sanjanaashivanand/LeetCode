@@ -335,6 +335,7 @@
 | [0812-rotate-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1119-robot-bounded-in-circle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -664,6 +665,7 @@
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
