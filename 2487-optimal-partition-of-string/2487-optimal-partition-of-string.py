@@ -11,6 +11,6 @@ class Solution:
             curr[ord(s[i]) - ord('a')] = 1
             i+=1
 
-        count+=1
+        count += 1
         return count
             
