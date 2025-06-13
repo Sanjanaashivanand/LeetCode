@@ -1,14 +1,14 @@
 class Solution:
     def partitionString(self, s: str) -> int:
-        curr = [0] * 26
+        curr = set()
         i = 0
         count = 0
 
         while i<len(s):
-            if curr[ord(s[i]) - ord('a')] == 1:
+            if s[i] in curr:
                 count += 1
-                curr = [0] * 26
-            curr[ord(s[i]) - ord('a')] = 1
+                curr.clear()
+            curr.add(s[i])
             i+=1
 
         count += 1
