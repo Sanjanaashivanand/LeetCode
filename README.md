@@ -252,6 +252,7 @@
 | [0283-move-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0768-partition-labels) |
@@ -330,6 +331,7 @@
 | [0299-bulls-and-cows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -831,6 +833,7 @@
 | [0322-coin-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0494-target-sum) |
