@@ -1,17 +1,3 @@
-'''
-Input:  Array of characters 
-Output: String
-
-To Do: Compress the string 
-"charCountcharCount"
-["a","a","b","b","c","c","c"]
-
-1. Iterate through the array and append the character 
-2. while next char == curr character; increment count and append
-3. return the string 
-'''
-
-
 class Solution(object):
     def compress(self, chars):
         """
