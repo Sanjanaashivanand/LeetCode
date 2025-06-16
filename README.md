@@ -776,6 +776,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0817-design-hashmap](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0817-design-hashmap) |
