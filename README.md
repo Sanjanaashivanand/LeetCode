@@ -358,6 +358,7 @@
 | [0443-string-compression](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0742-to-lower-case) |
@@ -577,6 +578,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0778-reorganize-string) |
@@ -1085,6 +1087,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
