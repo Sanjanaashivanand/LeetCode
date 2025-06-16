@@ -353,6 +353,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -639,6 +640,7 @@
 | [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0394-decode-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0682-baseball-game) |
@@ -787,6 +789,7 @@
 | [0060-permutation-sequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
