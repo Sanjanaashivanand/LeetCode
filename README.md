@@ -155,6 +155,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -230,6 +231,7 @@
 | [2107-find-unique-binary-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2139-detect-squares](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2139-detect-squares) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2487-optimal-partition-of-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2487-optimal-partition-of-string) |
@@ -535,6 +537,7 @@
 | [1791-richest-customer-wealth](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -822,6 +825,7 @@
 | [2048-build-array-from-permutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3447-clear-digits) |
