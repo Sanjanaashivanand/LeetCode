@@ -22,6 +22,7 @@ class Solution(object):
                 for c in str(count):
                     chars[res] = c
                     res += 1
+        
         return res
                 
 
