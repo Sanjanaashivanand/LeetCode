@@ -88,6 +88,7 @@
 | [0542-01-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0733-flood-fill) |
@@ -531,6 +532,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
