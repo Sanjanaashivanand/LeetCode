@@ -9,13 +9,13 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        temp = head 
+        temp = head
         prev = None
 
-        while temp!=None:
-            next = temp.next
+        while temp:
+            nextNode = temp.next
             temp.next = prev
             prev = temp
-            temp = next
-        
+            temp = nextNode
+            
         return prev
