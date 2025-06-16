@@ -277,6 +277,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -781,6 +782,7 @@
 | [0838-design-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1582-design-browser-history) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
