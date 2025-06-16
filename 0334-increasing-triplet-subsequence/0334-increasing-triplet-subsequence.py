@@ -16,7 +16,7 @@ f = 20 s = 100
 
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
-        f = float('inf')
+        f = nums[0]
         s = float('inf')
 
         for i in range(0, len(nums)):
