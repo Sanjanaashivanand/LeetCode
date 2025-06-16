@@ -14,19 +14,14 @@ class Solution(object):
 
         odd = head
         even = head.next
-        prev_odd = None 
-        prev_even = None
         even_head = even
 
         while even and even.next:
-            prev_odd = odd
-            odd = even.next 
+            odd.next = odd.next.next
+            even.next = even.next.next
 
-            prev_even = even
-            even = odd.next
-
-            prev_odd.next = odd
-            prev_even.next = even
+            odd = odd.next
+            even = even.next 
 
         odd.next = even_head
 
