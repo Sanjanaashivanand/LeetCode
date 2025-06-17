@@ -4,26 +4,34 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
+class Solution(object):
     def longestZigZag(self, root):
+        """
+        :type root: Optional[TreeNode]
+        :rtype: int
+        """
+        #left = -1
+        #right = 1
+
         self.max_len = 0
 
-        def dfs(node, direction, length):
-            if not node:
+        def dfs(root, dir, curr_len):
+            if not root:
                 return
 
-            self.max_len = max(self.max_len, length)
+            self.max_len = max(curr_len, self.max_len)
 
-            if direction == -1:  # came from left, go right
-                dfs(node.right, 1, length + 1)
-                dfs(node.left, -1, 1)  # restart
-            else:  # came from right, go left
-                dfs(node.left, -1, length + 1)
-                dfs(node.right, 1, 1)  # restart
+            if dir==-1:
+                dfs(root.right, 1, curr_len+1)
+                dfs(root.left, -1, 1)
+            else:
+                dfs(root.left, -1, curr_len+1)
+                dfs(root.right, 1, 1)
 
-        dfs(root.left, -1, 1)
-        dfs(root.right, 1, 1)
-
+        if root.left:
+            dfs(root.left, -1, 1)
+        if root.right:
+            dfs(root.right, 1, 1)
         return self.max_len
 
         
