@@ -28,10 +28,9 @@ class Solution(object):
                 dfs(root.left, -1, curr_len+1)
                 dfs(root.right, 1, 1)
 
-        if root.left:
-            dfs(root.left, -1, 1)
-        if root.right:
-            dfs(root.right, 1, 1)
+        
+        dfs(root.left, -1, 1)
+        dfs(root.right, 1, 1)
         return self.max_len
 
         
