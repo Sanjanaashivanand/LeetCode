@@ -820,6 +820,7 @@
 | [0226-invert-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -840,6 +841,7 @@
 | [0226-invert-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -1126,5 +1128,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
