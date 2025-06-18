@@ -11,19 +11,14 @@ class Solution(object):
         :type val: int
         :rtype: Optional[TreeNode]
         """
-        stack = [root]
+        if not root:
+            return 
 
-        while stack:
-            node = stack.pop()
+        if root.val == val:
+            return root
 
-            if node.val == val:
-                return node
-
-            if node.left:
-                stack.append(node.left)
-            
-            if node.right:
-                stack.append(node.right)
-        
-        return None
+        if root.val <= val:
+            return self.searchBST(root.right, val)
+        else:
+            return self.searchBST(root.left, val)
             
