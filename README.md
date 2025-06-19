@@ -58,6 +58,7 @@
 | [0135-candy](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0162-find-peak-element) |
 | [0163-missing-ranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0163-missing-ranges) |
 | [0189-rotate-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0198-house-robber) |
@@ -971,6 +972,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
