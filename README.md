@@ -172,6 +172,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2636-maximum-subsequence-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -325,6 +326,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2636-maximum-subsequence-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -618,6 +620,7 @@
 | [2487-optimal-partition-of-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2636-maximum-subsequence-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -638,6 +641,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2636-maximum-subsequence-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3647-zero-array-transformation-iii) |
