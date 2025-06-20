@@ -97,6 +97,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0735-asteroid-collision) |
@@ -610,6 +611,7 @@
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
@@ -945,6 +947,7 @@
 | [0518-coin-change-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
