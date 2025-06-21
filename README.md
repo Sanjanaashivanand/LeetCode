@@ -805,6 +805,7 @@
 | [0338-counting-bits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0389-find-the-difference) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2509-minimize-xor) |
