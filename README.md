@@ -74,6 +74,7 @@
 | [0221-maximal-square](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0253-meeting-rooms-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0274-h-index) |
@@ -281,6 +282,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0202-happy-number) |
+| [0253-meeting-rooms-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -312,6 +314,7 @@
 | [0217-contains-duplicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0242-valid-anagram) |
+| [0253-meeting-rooms-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0274-h-index) |
@@ -615,6 +618,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0135-candy) |
+| [0253-meeting-rooms-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -646,6 +650,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
@@ -984,6 +989,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0724-find-pivot-index](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
