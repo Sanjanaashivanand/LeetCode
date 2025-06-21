@@ -63,6 +63,7 @@
 | [0189-rotate-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -589,6 +590,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
@@ -980,6 +982,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -1004,6 +1007,7 @@
 | [0035-search-insert-position](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
