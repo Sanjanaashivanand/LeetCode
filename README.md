@@ -33,6 +33,7 @@
 | [0045-jump-game-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0054-spiral-matrix) |
@@ -213,6 +214,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0127-word-ladder) |
@@ -319,6 +321,7 @@
 | [0015-3sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0217-contains-duplicate) |
@@ -367,6 +370,7 @@
 | [0038-count-and-say](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0067-add-binary) |
