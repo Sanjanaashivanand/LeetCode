@@ -201,6 +201,7 @@
 | [3429-special-array-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3429-special-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3825-apply-substitutions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3825-apply-substitutions) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3825-apply-substitutions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3825-apply-substitutions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -450,6 +452,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3825-apply-substitutions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3825-apply-substitutions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -499,6 +502,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3825-apply-substitutions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3825-apply-substitutions) |
 ## Design
 |  |
 | ------- |
@@ -793,6 +797,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3825-apply-substitutions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3825-apply-substitutions) |
 ## Union Find
 |  |
 | ------- |
@@ -1147,6 +1152,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3825-apply-substitutions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3825-apply-substitutions) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1156,6 +1162,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0881-loud-and-rich) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3825-apply-substitutions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3825-apply-substitutions) |
 ## Shortest Path
 |  |
 | ------- |
