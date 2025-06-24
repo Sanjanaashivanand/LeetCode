@@ -5,10 +5,13 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+        hash = {}
+
         for i in range(0, len(nums)):
-            for j in range(i+1, len(nums)):
-                if nums[i]+nums[j]==target:
-                    return [i, j]
-        
-        return [-1, -1]
+            diff = target - nums[i]
+            if diff in hash:
+                return [hash[diff], i]
+            hash[nums[i]] = i
+
+        return [-1.-1]
         
