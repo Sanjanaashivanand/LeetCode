@@ -8,6 +8,7 @@ class Solution(object):
         n = len(nums)
         k = k % n
 
+        #Reverse Entire Array
         l = 0
         r = n - 1
         while l < r:
@@ -15,6 +16,7 @@ class Solution(object):
             l+=1
             r-=1
 
+        #Reverse first half
         l = 0
         r = k - 1
         while l < r:
@@ -22,6 +24,7 @@ class Solution(object):
             l+=1
             r-=1
 
+        #Reverse second half
         l = k
         r = n - 1
         while l < r:
