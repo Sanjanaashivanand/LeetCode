@@ -66,6 +66,7 @@
 | [0140-word-break-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0162-find-peak-element) |
 | [0163-missing-ranges](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0163-missing-ranges) |
+| [0169-majority-element](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0200-number-of-islands) |
@@ -225,6 +226,7 @@
 | [0133-clone-graph](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0217-contains-duplicate) |
@@ -332,6 +334,7 @@
 | [0049-group-anagrams](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0220-contains-duplicate-iii) |
@@ -705,6 +708,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
@@ -1090,6 +1094,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
