@@ -52,6 +52,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -292,6 +293,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0189-rotate-array) |
@@ -325,6 +327,7 @@
 | [0047-permutations-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0220-contains-duplicate-iii) |
