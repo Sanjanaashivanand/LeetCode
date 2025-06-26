@@ -8,9 +8,9 @@ class Solution(object):
         goal = len(nums) - 1
         jumps = 0
 
-        for i in range(n-1, -1, -1):
+        while goal>0:
             new_goal = goal
-            for j in range(i-1, -1, -1):
+            for j in range(goal-1, -1, -1):
                 if j + nums[j] >= goal:
                     new_goal = j
 
