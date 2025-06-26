@@ -9,14 +9,11 @@ class Solution(object):
         jumps = 0
 
         while goal>0:
-            new_goal = goal
-            for j in range(goal-1, -1, -1):
-                if j + nums[j] >= goal:
-                    new_goal = j
-
-            if goal != new_goal:
-                goal = new_goal
-                jumps+=1
+            for i in range(goal):
+                if i + nums[i] >= goal:
+                    goal = i
+                    jumps+=1   
+                    break 
         
         return jumps
 
