@@ -6,29 +6,16 @@ class Solution(object):
         """
         n = len(nums)
 
-        count = 0
-        
-        l = 0
-        r = 1
+        slow = 0
+        fast = 1
 
-        while l<len(nums)-1 and r<len(nums):
-            curr = nums[l]
-
-            while r<len(nums) and nums[r]==curr:
-                r+=1
-                count+=1
-
-            if r == len(nums):
-                break
-
-            #Swap
-            temp = nums[l+1]
-            nums[l+1] = nums[r]
-            nums[r] = nums[l+1]
-
-            l+=1
-            r+=1
-
-        return n - count
+        while fast<n:
+            if nums[slow] == nums[fast]:
+                fast+=1
+            else:
+                nums[slow+1] = nums[fast]
+                slow+=1
+                fast+=1
+        return slow+1
 
         
