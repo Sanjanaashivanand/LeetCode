@@ -5,30 +5,16 @@ class Solution(object):
         :type text2: str
         :rtype: int
         """
-        def find(idx1, idx2, dp):
-            if idx1<0 or idx2<0:
-                return 0
-
-            if dp[idx1][idx2]!=-1:
-                return dp[idx1][idx2]
-
-            if text1[idx1] == text2[idx2]:
-                return 1 + find(idx1-1, idx2-1, dp)
-            
-
-            dp[idx1][idx2] = max(find(idx1, idx2-1, dp), find(idx1-1, idx2, dp))
-            return dp[idx1][idx2]
-
         m = len(text1)
         n = len(text2)
-        dp = [[-1 for _ in range(n)] for _ in range(m)]
-        return find(len(text1)-1, len(text2)-1, dp)
 
-        
+        dp = [[0 for _ in range(n+1)] for _ in range(m+1)]
 
-            
+        for i in range(m-1, -1, -1):
+            for j in range(n-1, -1, -1):
+                if text1[i] == text2[j]:
+                    dp[i][j] = 1 + dp[i+1][j+1]
+                else:
+                    dp[i][j] = max(dp[i+1][j], dp[i][j+1])
 
-
-
-
-        
+        return dp[0][0]
