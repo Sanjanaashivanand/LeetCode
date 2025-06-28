@@ -5,39 +5,29 @@ class Solution(object):
         :type word2: str
         :rtype: int
         """
+
         m = len(text1)
         n = len(text2)
 
-        dp = [[-1 for _ in range(n+1)] for _ in range(m+1)]
+        dp = [[0 for _ in range(n+1)] for _ in range(m+1)]
 
-        def find(idx1, idx2):
-            if idx1==m and idx2==n:
-                return 0
+        dp[0][n] = len(text1)
+        for i in range(1, m):
+            dp[i][n] = dp[i-1][n] - 1
 
-            if dp[idx1][idx2]!=-1:
-                return dp[idx1][idx2]
+        dp[m][0] = len(text2)
+        for i in range(1, n):
+            dp[m][i] = dp[m][i-1] - 1
 
-            #Insert Characters 
-            if idx1 == m:
-                return n - idx2
-            
-            #Delete
-            if idx2 == n:
-                return m - idx1
 
-            res = -1
-            #Replace
-            if text1[idx1] == text2[idx2]:
-                res = find(idx1+1, idx2+1)
+        for i in range(m-1, -1, -1):
+            for j in range(n-1, -1, -1):
+                if text1[i] == text2[j]:
+                    dp[i][j] = dp[i+1][j+1]
 
-            else:
-                insert_op = 1 + find(idx1, idx2 + 1)
-                delete_op = 1 + find(idx1 + 1, idx2)
-                replace_op = 1 + find(idx1 + 1, idx2 + 1)
-                res = min(insert_op, delete_op, replace_op)
+                else:
+                    dp[i][j] = min(dp[i+1][j], dp[i][j+1], dp[i+1][j+1]) + 1
 
-            dp[idx1][idx2] = res
-            return dp[idx1][idx2]
-
-        return find(0,0)
+        return dp[0][0]
+        
         
