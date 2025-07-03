@@ -934,6 +934,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -955,6 +956,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1014,6 +1016,7 @@
 | [0072-edit-distance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -1167,6 +1170,7 @@
 | [0067-add-binary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0231-power-of-two) |
@@ -1290,6 +1294,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0450-delete-node-in-a-bst](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Quickselect
