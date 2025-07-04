@@ -501,6 +501,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -939,6 +940,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -962,6 +964,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1026,6 +1029,7 @@
 | [0120-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0140-word-break-ii) |
