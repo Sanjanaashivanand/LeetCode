@@ -1,25 +1,15 @@
 class Solution(object):
     def findMaxForm(self, strs, m, n):
-        length = len(strs)
-        dp = {}
+        # dp[i][j] = max number of strings with i 0s and j 1s
+        dp = [[0] * (n + 1) for _ in range(m + 1)]
 
-        def dfs(idx, m, n):
-            if idx == length:
-                return 0
+        for s in strs:
+            zeros = s.count('0')
+            ones = s.count('1')
 
-            if (idx, m, n) in dp:
-                return dp[(idx, m, n)]
+            # Iterate backwards to avoid overwriting needed states
+            for i in range(m, zeros - 1, -1):
+                for j in range(n, ones - 1, -1):
+                    dp[i][j] = max(dp[i][j], 1 + dp[i - zeros][j - ones])
 
-            zeros = strs[idx].count('0')
-            ones = strs[idx].count('1')
-
-            pick = 0
-            if m - zeros >= 0 and n - ones >= 0:
-                pick = 1 + dfs(idx + 1, m - zeros, n - ones)
-
-            not_pick = dfs(idx + 1, m, n)
-
-            dp[(idx, m, n)] = max(pick, not_pick)
-            return dp[(idx, m, n)]
-
-        return dfs(0, m, n)
+        return dp[m][n]
