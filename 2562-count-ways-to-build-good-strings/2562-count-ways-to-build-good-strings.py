@@ -7,23 +7,17 @@ class Solution(object):
         :type one: int
         :rtype: int
         """
-        def helper(length, dp):
-            if length > high:
-                return 0
+        MOD = 10**9 + 7
+        dp = [0] * (high + 1)
+        dp[0] = 1  # Base case: one way to make string of length 0
 
-            if dp[length]!=-1:
-                return dp[length]
+        for i in range(1, high + 1):
+            if i - zero >= 0:
+                dp[i] = (dp[i] + dp[i - zero]) % MOD
+            if i - one >= 0:
+                dp[i] = (dp[i] + dp[i - one]) % MOD
 
-            count = 1 if low <= length <= high else 0
-            count += helper(length+one, dp) % (10**9 + 7)
-            count += helper(length+zero, dp) % (10**9 + 7)
-            dp[length] = count % (10**9 + 7)
-            return count
-       
-
-        dp = [-1 for _ in range(high+1)]
-        helper(0, dp)
-        return dp[0]
+        return sum(dp[low:high + 1]) % MOD
 
             
                 
