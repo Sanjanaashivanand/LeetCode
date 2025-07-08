@@ -6,31 +6,12 @@ class Solution(object):
         :rtype: int
         """
         n = len(coins)
+        dp = [float('inf')] * (amount+1)
+        dp[0] = 0
 
-        def helper(idx, curr, dp):
-            if idx == 0:
-                if curr%coins[0] == 0:
-                    return curr/coins[idx]
-                else:
-                    return float('inf')
+        for curr in range(1, amount+1):
+            for coin in coins:
+                if coin <= curr:
+                    dp[curr] = min(dp[curr], 1+dp[curr - coin])
 
-            if (idx, curr) in dp:
-                return dp[(idx, curr)]
-
-            #Pick
-            pick = float('inf')
-            if coins[idx] <= curr:
-                pick = 1 + helper(idx, curr - coins[idx], dp)
-
-            skip = helper(idx-1, curr, dp)
-
-            dp[(idx, curr)] = min(pick, skip)
-            return dp[(idx,curr)]
-
-
-        dp = {}
-        res = helper(len(coins)-1, amount, dp) 
-        return res if res < float('inf') else -1
-
-            
-        
+        return dp[amount] if dp[amount] != float('inf') else -1
