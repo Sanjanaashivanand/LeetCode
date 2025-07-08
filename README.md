@@ -1089,6 +1089,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
