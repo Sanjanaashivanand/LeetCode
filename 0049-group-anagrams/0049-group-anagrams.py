@@ -4,26 +4,22 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        frequency = {}
+        freq_map = {}
 
-        for string in strs:
-            count = [0] * 26
+        for s in strs:
+            char_map = [0] * 26
+            for c in s:
+                char_map[ord(c)-ord('a')] += 1
 
-            for c in string:
-                count[ord(c) - ord('a')] += 1
-
-            count_string = ','.join(str(c) for c in count)
-
-            if count_string not in frequency:
-                frequency[count_string] = []
-            frequency[count_string].append(string)
-
+            key = ','.join(str(i) for i in char_map)
+            if key not in freq_map:
+                freq_map[key] = []
+            freq_map[key].append(s)
+        
         res = []
-        for i in frequency:
-            res.append(frequency[i])
+        for val in freq_map.values():
+            res.append(val)
 
         return res
 
-
-
-        
+                
