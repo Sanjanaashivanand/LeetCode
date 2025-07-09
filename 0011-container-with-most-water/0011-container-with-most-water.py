@@ -8,6 +8,8 @@ class Solution(object):
         l = 0 
         r = n - 1
         res = 0
+        if len(height) == 2:
+            return min(height)
 
         while l<r:
             res = max(res, min(height[l], height[r]) * (r-l))
