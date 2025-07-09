@@ -4,11 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        hash = set()
+        unique = set()
+
         for i in nums:
-            if i in hash:
+            if i in unique:
                 return True
-            hash.add(i)
+            unique.add(i)
 
         return False
-        
