@@ -7,11 +7,9 @@ class Solution(object):
         """
         hash = {}
 
-        for i in range(0, len(nums)):
-            diff = target - nums[i]
-            if diff in hash:
-                return [hash[diff], i]
-            hash[nums[i]] = i
+        for i,num in enumerate(nums):
+            if target - num in hash:
+                return [hash[target-num], i]
+            hash[num] = i 
 
-        return [-1.-1]
-        
+        return [-1,-1]
