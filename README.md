@@ -563,6 +563,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0271-encode-and-decode-strings) |
@@ -781,6 +782,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
