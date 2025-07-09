@@ -8,7 +8,7 @@ class Solution(object):
         nums.sort()
         res = []
 
-        for curr in range(0, n):
+        for curr in range(0, n-2):
             low = curr+1
             high = n-1
 
