@@ -5,20 +5,17 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        count = {}
+        count = Counter(nums)
 
-        for i in nums:
-            if i not in count:
-                count[i] = 0
-            count[i]+=1
+        sort_count = sorted(count, key = lambda x: count[x], reverse=True)
 
-        sorted_items = sorted(count.items(), key=lambda x: x[1], reverse=True)
-        print(sorted_items)
-
-        res=[]
-
-        for i in range(k):
-            res.append(sorted_items[i][0])
+        res = []
         
+        for key in sort_count:
+            res.append(key)
+            if len(res) == k:
+                break
+
         return res
-        
+            
+            
