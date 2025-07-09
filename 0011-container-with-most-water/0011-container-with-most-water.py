@@ -1,31 +1,23 @@
-'''
-height = [1,8,6,2,5,4,8,3,7]
-
-
-'''
-
-
 class Solution(object):
-    def maxArea(self, nums):
+    def maxArea(self, height):
         """
         :type height: List[int]
         :rtype: int
         """
-        l = 0
-        r = len(nums) - 1
-        max_area = -1
+        n = len(height)
+        l = 0 
+        r = n - 1
+        res = 0
 
         while l<r:
-            area = (r-l) * min(nums[r], nums[l])
-            max_area = max(max_area, area)
-            if nums[l] < nums[r]:
-                l+=1
+            res = max(res, min(height[l], height[r]) * (r-l))
+
+            if height[l] > height[r]:
+                r -= 1
             else:
-                r-=1
+                l += 1
 
-        return max_area
+        return res
 
-        
-
-
+            
         
