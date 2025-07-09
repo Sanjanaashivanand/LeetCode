@@ -13,12 +13,12 @@ class Solution(object):
             prefix[i] = prod
             prod = prod * nums[i]
 
-        ans = [0] * n
         prod = 1
 
         for i in range(n-1, -1, -1):
-            ans[i] = prefix[i] * prod
-            prod = prod * nums[i]
-        return ans
+            prefix[i] = prefix[i] * prod
+            prod *= nums[i]
+
+        return prefix
 
         
