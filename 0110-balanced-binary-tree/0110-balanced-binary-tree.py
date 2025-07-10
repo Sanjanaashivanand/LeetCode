@@ -16,17 +16,15 @@ class Solution(object):
             if not root:
                 return 0
 
-            #Height left
-            l = dfs(root.left)
+            left = dfs(root.left)
+            right = dfs(root.right)
 
-            #right
-            r = dfs(root.right)
-
-            if abs(l-r) > 1:
+            if abs(left - right) > 1:
                 self.res = False
 
-            return 1 + max(l, r)
+            return 1 + max(left, right)
 
         dfs(root)
-        return self.res 
-        
+        return self.res
+
+
