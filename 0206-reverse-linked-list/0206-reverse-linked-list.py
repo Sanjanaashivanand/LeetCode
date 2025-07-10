@@ -9,7 +9,7 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        temp = head
+        temp = head 
         prev = None
 
         while temp:
@@ -17,5 +17,5 @@ class Solution(object):
             temp.next = prev
             prev = temp
             temp = nextNode
-            
+
         return prev
