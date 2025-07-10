@@ -11,10 +11,6 @@ class Solution(object):
         high = n-1
 
         while low <= high:
-            if nums[low]==target:
-                return low
-            if nums[high]==target:
-                return high
             mid = (low+high)//2
 
             if nums[mid] == target:
