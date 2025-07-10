@@ -15,8 +15,7 @@ class Solution(object):
 
             for num in piles:
                 time_taken += ceil(float(num)/banans)
-                # print(ceil(num/banans))
-            print("bananas " + str(banans) + " time taken " + str(time_taken))
+            
 
             if time_taken <= h:
                 res = min(res, banans)
