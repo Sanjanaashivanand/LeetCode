@@ -30,7 +30,6 @@ class Solution(object):
 
                 while have == need: #Found the string 
                     if end - start + 1 <= resLen:
-                        print("Here")
                         resLen = end - start + 1
                         res = [start, end]
 
