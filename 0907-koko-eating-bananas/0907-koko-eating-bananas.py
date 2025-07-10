@@ -7,23 +7,26 @@ class Solution(object):
         """
         low = 1
         high = max(piles)
-        res = high
+        res = float('inf')
 
         while low<=high:
-            mid = (low+high)//2
-            print("Mid " , mid)
-
+            banans = (low+high)//2
             time_taken = 0
 
-            for bananas in piles:
-                time_taken += math.ceil(float(bananas) / mid)
-                if time_taken > h:
-                    break
+            for num in piles:
+                time_taken += ceil(float(num)/banans)
+                # print(ceil(num/banans))
+            print("bananas " + str(banans) + " time taken " + str(time_taken))
 
-            if int(time_taken) <= h:
-                res = min(res, mid)
-                high = mid - 1
+            if time_taken <= h:
+                res = min(res, banans)
+                high = banans - 1
+
             else:
-                low = mid + 1
+                low = banans + 1
 
         return res
+
+            
+
+
