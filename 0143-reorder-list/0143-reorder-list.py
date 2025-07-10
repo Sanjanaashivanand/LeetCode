@@ -3,6 +3,11 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
+'''
+1 -> 2 -> 3
+5 -> 4
+'''
 class Solution(object):
     def reorderList(self, head):
         """
@@ -12,25 +17,32 @@ class Solution(object):
         if not head:
             return 
 
-        slow = head
-        fast = head
+        slow = fast = head
 
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
 
         prev = None
-        curr = slow
+        temp = slow
 
-        while curr:
-            curr.next, prev, curr = prev, curr, curr.next
+        while temp:
+            nextNode = temp.next
+            temp.next = prev
+            prev = temp
+            temp = nextNode
 
-        first, second = head, prev
-
-        while second.next:
-            first.next, first = second, first.next
-            second.next, second = first, second.next
-
-            
+        first = head
+        second = prev
 
         
+        while second.next:
+            temp1 = first.next
+            temp2 = second.next
+
+            first.next = second
+            second.next = temp1
+
+            first = temp1
+            second = temp2
+            
