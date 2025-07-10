@@ -10,43 +10,44 @@ class Solution(object):
         :type l2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        l3 = ListNode(0)
-        temp = l3
+        res = ListNode(0)
+        temp3 = res
+
+        temp1 = l1
+        temp2 = l2
 
         carry = 0
-        while l1!=None and l2!=None:
-            if l1.val + l2.val + carry>=10:
-                temp.next = ListNode((l1.val + l2.val + carry)%10)
-                carry = (l1.val + l2.val + carry)//10
+        while temp1 and temp2:
+            if temp1.val + temp2.val + carry >= 10:
+                temp3.next = ListNode((temp1.val + temp2.val + carry)%10)
+                carry = 1
             else:
-                temp.next = ListNode(l1.val + l2.val + carry)
+                temp3.next = ListNode(temp1.val + temp2.val + carry)
                 carry = 0
-            temp = temp.next
-            l1 = l1.next
-            l2 = l2.next
 
-        while l1!=None:
-            if l1.val + carry>=10:
-                temp.next = ListNode((l1.val + carry)%10)
-                carry = (l1.val + carry)//10
-            else:
-                temp.next = ListNode(l1.val + carry)
-                carry = 0
-            temp = temp.next
-            l1 = l1.next
+            temp1 = temp1.next
+            temp2 = temp2.next
+            temp3 = temp3.next
 
-        while l2!=None:
-            if l2.val + carry>=10:
-                temp.next = ListNode((l2.val + carry)%10)
-                carry = (l2.val + carry)//10
-            else:
-                temp.next = ListNode(l2.val + carry)
-                carry = 0
-            temp = temp.next
-            l2 = l2.next
+        while temp1:
+            sum_val = temp1.val + carry
+            temp3.next = ListNode(sum_val % 10)
+            carry = sum_val // 10
 
-        if carry!=0:
-            temp.next = ListNode(carry)
-            
-        
-        return l3.next
+            temp1 = temp1.next
+            temp3 = temp3.next
+
+
+        while temp2:
+            sum_val = temp2.val + carry
+            temp3.next = ListNode(sum_val % 10)
+            carry = sum_val // 10
+
+            temp2 = temp2.next
+            temp3 = temp3.next
+
+        if carry !=0:
+            temp3.next = ListNode(carry)
+
+        return res.next
+
