@@ -21,6 +21,8 @@ class Solution(object):
             #Mid is in left portion
             if nums[mid] >= nums[low]:
                 low = mid + 1
+
+            #Mid is in right portion
             else:
                 high = mid - 1
 
