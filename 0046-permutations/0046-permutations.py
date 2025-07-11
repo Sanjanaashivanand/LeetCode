@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         n = len(nums)
-        path = nums
         res = []
 
         def permute(path, idx):
@@ -19,6 +18,6 @@ class Solution(object):
                 path[idx], path[i] = path[i], path[idx]
 
         
-        permute(path, 0)
+        permute(nums, 0)
         return res
 
