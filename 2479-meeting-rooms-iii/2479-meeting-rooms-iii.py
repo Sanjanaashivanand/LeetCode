@@ -5,39 +5,28 @@ class Solution(object):
         :type meetings: List[List[int]]
         :rtype: int
         """
-        meetings = sorted(meetings, key = lambda x:x[0])
+        meetings.sort()
 
-        room_availability_time = [0] * n
-        meeting_count = [0] * n
+        available = [i for i in range(n)]
+        in_use = [] #(end, room)
+        count = [0] * n
 
         for start, end in meetings:
+            #Remove all the meetings that are done
+            while in_use and start >= in_use[0][0]:
+                _, room = heapq.heappop(in_use)
+                heapq.heappush(available, room)
 
-            min_room_availabity_time = float('inf')
-            min_available_room = 0
+            #If no room available
+            if not available:
+                end_time, room = heapq.heappop(in_use)
+                #Update the end time (new end time of the meeting)
+                end = end_time + (end - start)
+                heapq.heappush(available, room)
 
-            found_room = False
+            room = heapq.heappop(available)
+            heapq.heappush(in_use, (end, room))
+            count[room] += 1
 
-            for i in range (0, n):
-                if room_availability_time[i] <= start:
-                    room_availability_time[i] = end
-                    meeting_count[i] += 1
-                    found_room = True
-                    break
+        return count.index(max(count))
 
-                if room_availability_time[i] < min_room_availabity_time:
-                    min_room_availabity_time = room_availability_time[i]
-                    min_available_room = i 
-
-            if not found_room:
-                room_availability_time[min_available_room] += end - start
-                meeting_count[min_available_room] += 1
-
-        res = 0
-
-        for i in range(n):
-            if meeting_count[i] > meeting_count[res]:
-                res = i 
-
-        return res
-
-                
