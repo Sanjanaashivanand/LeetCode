@@ -1,12 +1,11 @@
-class TrieNode:
-    def __init__(self):
-        self.children = {}
-        self.endOfWord = False
-
 class Trie(object):
+    class TrieNode:
+        def __init__(self):
+            self.children = {}
+            self.endOfWord = False
 
     def __init__(self):
-        self.root = TrieNode()
+        self.root = self.TrieNode()
 
     def insert(self, word):
         """
@@ -16,10 +15,11 @@ class Trie(object):
         curr = self.root
         for c in word:
             if c not in curr.children:
-                curr.children[c] = TrieNode()
+                curr.children[c] = self.TrieNode()
             curr = curr.children[c]
         curr.endOfWord = True
         
+
     def search(self, word):
         """
         :type word: str
@@ -32,6 +32,7 @@ class Trie(object):
             curr = curr.children[c]
         return curr.endOfWord
         
+
     def startsWith(self, prefix):
         """
         :type prefix: str
