@@ -93,6 +93,7 @@
 | [0271-encode-and-decode-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0274-h-index](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -668,6 +669,7 @@
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0286-walls-and-gates](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0286-walls-and-gates) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -874,6 +876,7 @@
 | [0210-course-schedule-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0279-perfect-squares) |
+| [0286-walls-and-gates](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0399-evaluate-division) |
