@@ -165,6 +165,7 @@
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1524-string-matching-in-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -389,6 +390,7 @@
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1397-search-suggestions-system](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -737,6 +739,7 @@
 | [0890-lemonade-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -764,6 +767,7 @@
 | [0794-swim-in-rising-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1397-search-suggestions-system](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
