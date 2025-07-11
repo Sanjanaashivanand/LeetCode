@@ -201,6 +201,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -296,6 +297,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2487-optimal-partition-of-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -396,6 +398,7 @@
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -765,6 +768,7 @@
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1065,6 +1069,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2479-meeting-rooms-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
