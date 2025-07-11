@@ -6,42 +6,42 @@ class Solution(object):
         """
         m = len(grid)
         n = len(grid[0])
-
         q = deque()
-        visited = [[False for _ in range(n)] for _ in range(m)]
+        n_oranges = 0
 
-        for i in range(m):
-            for j in range(n):
+        for i in range(0, m):
+            for j in range(0, n):
                 if grid[i][j] == 2:
-                    q.append([i,j])
-                    visited[i][j] = True
-
-        directions = [[0,1], [0,-1], [-1,0], [1,0]]
-        count = -1
+                    q.append((i,j))
+                if grid[i][j] == 1:
+                    n_oranges += 1
+                
+        
+        if n_oranges == 0:
+            return 0
+            
+        count = 0
+        rotten = 0
 
         while q:
             size = len(q)
             count+=1
 
-            for i in range(size):
-                row, col = q.popleft()
+            for _ in range(0, size):
+                i, j = q.popleft()
 
-                for dr,dc in directions:
-                    r = row + dr
-                    c = col + dc
+                for nx, ny in [(0,1), (0,-1), (1,0), (-1,0)]:
+                    nr = i + nx
+                    nc = j + ny
 
-                    if 0<=r<m and 0<=c<n and grid[r][c]==1 and not visited[r][c]:
-                        q.append([r,c])
-                        grid[r][c] = 2
-                        visited[r][c] = True
+                    if nr < 0 or nr >= m or nc < 0 or nc >= n or grid[nr][nc] == 0:
+                        continue
 
-        for i in range(m):
-            for j in range(n):
-                if grid[i][j] == 1:
-                    return -1
+                    if grid[nr][nc] == 1:
+                        rotten+=1
+                        grid[nr][nc] = 2
+                        q.append((nr,nc))
 
-        return 0 if count == -1 else count
-
-
-
-        
+        if rotten==n_oranges:
+            return count-1
+        return -1
