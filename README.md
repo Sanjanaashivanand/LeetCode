@@ -136,6 +136,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0756-pour-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0756-pour-water) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -401,6 +402,7 @@
 | [0630-course-schedule-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0778-reorganize-string) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -757,6 +759,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0778-reorganize-string) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0890-lemonade-change) |
@@ -844,6 +847,7 @@
 | [0682-baseball-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0739-daily-temperatures) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -867,6 +871,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0739-daily-temperatures) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1002-maximum-width-ramp) |
