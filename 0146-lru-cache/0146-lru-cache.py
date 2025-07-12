@@ -1,4 +1,3 @@
-from os import remove
 class LRUCache(object):
     class Node:
         def __init__(self, key, value):
