@@ -5,37 +5,35 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: bool
         """
-        def dfs(node, currPath):
+        def dfs(node, path_visited):
             visited[node] = True
-            currPath[node] = True
+            path_visited[node] = True
 
             for next in adj[node]:
                 if not visited[next]:
-                    if dfs(next, currPath):
+                    if dfs(next, path_visited):
                         return True
-                elif currPath[next]:
+                elif path_visited[next]:
                     return True
 
-            currPath[node] = False
+            path_visited[node] = False
             return False
         
-        #Build adjacency list
+        #Adj 
         adj = {}
 
         for i in range(numCourses):
             adj[i] = []
-
+        
         for v, u in prerequisites:
             adj[u].append(v)
-
-        #Visited 
+        
         visited = [False] * numCourses
-        currPath = [False] * numCourses
+        path_visited = [False] * numCourses
 
-        #DFS
         for i in range(numCourses):
             if not visited[i]:
-                if dfs(i, currPath):
+                if dfs(i, path_visited):
                     return False
 
         return True
