@@ -254,6 +254,7 @@
 | [0139-word-break](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -588,6 +589,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -977,6 +979,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
@@ -1400,6 +1403,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1582-design-browser-history) |
 ## Binary Search Tree
 |  |
