@@ -660,6 +660,7 @@
 | [0079-word-search](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0140-word-break-ii) |
@@ -1043,6 +1044,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0100-same-tree) |
@@ -1076,6 +1078,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0100-same-tree) |
@@ -1148,6 +1151,7 @@
 | [0072-edit-distance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -1450,6 +1454,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
