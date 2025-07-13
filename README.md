@@ -104,6 +104,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0353-design-snake-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0353-design-snake-game) |
 | [0354-russian-doll-envelopes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -270,6 +271,7 @@
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0353-design-snake-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0389-find-the-difference) |
@@ -614,6 +616,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0353-design-snake-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0460-lfu-cache) |
@@ -1114,6 +1117,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0068-text-justification) |
+| [0353-design-snake-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0353-design-snake-game) |
 | [0657-robot-return-to-origin](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0735-asteroid-collision) |
@@ -1442,6 +1446,7 @@
 ## Queue
 |  |
 | ------- |
+| [0353-design-snake-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0353-design-snake-game) |
 | [0649-dota2-senate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0969-number-of-recent-calls) |
