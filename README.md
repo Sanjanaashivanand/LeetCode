@@ -161,6 +161,7 @@
 | [1073-number-of-enclaves](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1105-uncrossed-lines) |
+| [1127-last-stone-weight](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -808,6 +809,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1127-last-stone-weight](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
