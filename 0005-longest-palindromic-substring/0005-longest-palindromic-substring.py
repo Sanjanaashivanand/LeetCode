@@ -17,8 +17,7 @@ class Solution(object):
                     break
                 i-=1
                 j+=1
-
-            print(string)
+                
             return string
 
         res = ""
