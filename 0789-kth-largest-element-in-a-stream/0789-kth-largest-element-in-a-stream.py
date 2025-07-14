@@ -6,25 +6,22 @@ class KthLargest(object):
         :type nums: List[int]
         """
         self.k = k
-        self.stream = []
-        heapq.heapify(self.stream)  # Not strictly needed, but good practice
+        self.heap = []
 
         for num in nums:
             self.add(num)
-        
 
     def add(self, val):
         """
         :type val: int
         :rtype: int
         """
-        if len(self.stream) < self.k:
-            heapq.heappush(self.stream, val)
-        elif val > self.stream[0]:  # If val is larger than smallest in heap
-            heapq.heappop(self.stream)
-            heapq.heappush(self.stream, val)
-        return self.stream[0]
-        
+        if len(self.heap) < self.k:
+            heapq.heappush(self.heap, val)
+        elif val > self.heap[0]:
+            heapq.heappop(self.heap)
+            heapq.heappush(self.heap, val)
+        return self.heap[0]
         
 
 
