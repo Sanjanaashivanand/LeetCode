@@ -92,6 +92,7 @@
 | [0253-meeting-rooms-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0274-h-index](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0283-move-zeroes) |
@@ -477,6 +478,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0242-valid-anagram) |
+| [0269-alien-dictionary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0299-bulls-and-cows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -576,6 +578,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0332-reconstruct-itinerary) |
@@ -920,6 +923,7 @@
 | [0210-course-schedule-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0322-coin-change) |
@@ -1381,6 +1385,7 @@
 | [0207-course-schedule](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0332-reconstruct-itinerary) |
@@ -1405,6 +1410,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0269-alien-dictionary) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0881-loud-and-rich) |
