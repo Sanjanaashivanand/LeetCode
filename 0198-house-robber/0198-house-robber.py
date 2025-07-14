@@ -4,22 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        def choose(idx, dp):
-            if idx >= len(nums):
-                return 0
+        if len(nums)==1:
+            return nums[0]
 
-            if dp[idx] != -1:
-                return dp[idx]
+        n = len(nums)+1
+        dp = [-1 for _ in range(len(nums)+1)]
+        dp[n-1] = 0
 
-            # Pick: take current value and jump to idx+2
-            pick = nums[idx] + choose(idx + 2, dp)
+        for i in range(n-2, -1, -1):
+            dp[i] = max(nums[i] + dp[min(i+2, n-1)], dp[i+1])
 
-            # Not Pick: skip to next
-            not_pick = choose(idx + 1, dp)
-
-            dp[idx] = max(pick, not_pick)
-            return dp[idx]
-        
-        dp = [-1] * len(nums)
-        return choose(0, dp)
-        
+        return dp[0]
