@@ -4,6 +4,8 @@ class UnionFind:
 
     def find(self, x):
         while self.parent[x] != x:
+            #Path Compression
+            self.parent[x] = self.parent[self.parent[x]]
             x = self.parent[x]
         return x 
 
