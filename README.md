@@ -88,6 +88,7 @@
 | [0221-maximal-square](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0252-meeting-rooms](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
@@ -393,6 +394,7 @@
 | [0217-contains-duplicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
