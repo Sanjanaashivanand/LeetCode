@@ -15,6 +15,5 @@ class Solution(object):
             if i + nums[i] >= goal:
                 goal = i 
             i-=1 
-            print("Goal " , goal)
         
         return goal == 0
