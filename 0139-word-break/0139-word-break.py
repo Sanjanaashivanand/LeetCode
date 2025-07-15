@@ -1,8 +1,3 @@
-class TrieNode():
-    def __init__(self):
-        self.children = {}
-        self.endOfWord = False
-
 class Solution(object):
     def wordBreak(self, s, wordDict):
         """
@@ -11,39 +6,17 @@ class Solution(object):
         :rtype: bool
         """
         n = len(s)
-        self.root = TrieNode()
+        dp = [False for _ in range(n)]
 
-        for word in wordDict:
-            curr = self.root
-            for c in word:
-                if c not in curr.children:
-                    curr.children[c] = TrieNode()
-                curr = curr.children[c]
-            curr.endOfWord = True
+        for i in range(len(s)):
+            for word in wordDict:
+                if i < len(word) - 1:
+                    continue
+                if i == len(word) - 1 or dp[i - len(word)] == True:
+                    if s[i-len(word)+1:i+1] == word:
+                        dp[i] = True 
+                        break
 
-        def helper(start, memo):
-            if start == n:
-                return True
 
-            if start in memo:
-                return memo[start]
-
-            curr = self.root
-
-            for i, c in enumerate(s[start:]):
-                if c not in curr.children:
-                    break
-                curr = curr.children[c]
-                if curr.endOfWord:
-                    if helper(start + i + 1, memo):
-                        memo[start] = True
-                        return True
-
-            memo[start] = False
-            return False
+        return dp[-1]
                 
-        memo = {}
-        return helper(0, memo)
-
-
-            
