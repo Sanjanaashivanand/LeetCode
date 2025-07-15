@@ -227,6 +227,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2591-frog-jump-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -799,6 +800,7 @@
 | [2487-optimal-partition-of-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2591-frog-jump-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2636-maximum-subsequence-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -1306,6 +1308,7 @@
 | [2165-plates-between-candles](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2165-plates-between-candles) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2591-frog-jump-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Rolling Hash
