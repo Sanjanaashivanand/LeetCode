@@ -5,13 +5,24 @@ class Solution(object):
         :type amount: int
         :rtype: int
         """
-        n = len(coins)
-        dp = [float('inf')] * (amount+1)
-        dp[0] = 0
+        def helper(total, dp):
+            if total == 0:
+                return 0
+            if total < 0:
+                return float('inf')
+            
+            if dp[total]!=-1:
+                return dp[total]
 
-        for curr in range(1, amount+1):
+            mini = float('inf')
             for coin in coins:
-                if coin <= curr:
-                    dp[curr] = min(dp[curr], 1+dp[curr - coin])
+                if coin <= total:
+                    coins_needed = 1 + helper(total - coin, dp)
+                    mini = min(mini, coins_needed)
 
-        return dp[amount] if dp[amount] != float('inf') else -1
+            dp[total] = mini
+            return mini
+            
+        dp = [-1 for _ in range(amount+1)]
+        res = helper(amount, dp)
+        return res if res!=float('inf') else -1
