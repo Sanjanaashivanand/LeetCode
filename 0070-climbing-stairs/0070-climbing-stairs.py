@@ -6,12 +6,14 @@ class Solution(object):
         """
         if n==1:
             return 1
-
-        dp = [0] * (n+1)
-        dp[1] = 1
-        dp[2] = 2
+        
+        n1 = 1
+        n2 = 2
+        count = 0
 
         for i in range(3, n+1):
-            dp[i] = dp[i-1] + dp[i-2]
+            count = n1 + n2 
+            n1 = n2 
+            n2 = count
 
-        return dp[n]
+        return count if n>2 else n2
