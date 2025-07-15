@@ -1,16 +1,21 @@
 class Solution(object):
     def maxProduct(self, nums):
-        max_prod = nums[0]
-        min_prod = nums[0]
-        result = nums[0]
+        max_prod = 1
+        min_prod = 1
 
-        for num in nums[1:]:
-            if num < 0:
-                max_prod, min_prod = min_prod, max_prod
+        res = nums[0]
 
-            max_prod = max(num, max_prod * num)
-            min_prod = min(num, min_prod * num)
+        for num in nums:
+            if num == 0:
+                max_prod = 1
+                min_prod = 1
+                res = max(res, 0)
+                continue
 
-            result = max(result, max_prod)
+            temp = max_prod
+            max_prod = max(max_prod*num, min_prod*num, num)
+            min_prod = min(min_prod*num, temp*num, num)
 
-        return result
+            res = max(max_prod, res)
+
+        return res
