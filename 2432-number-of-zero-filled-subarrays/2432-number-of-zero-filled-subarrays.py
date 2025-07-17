@@ -5,14 +5,18 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        prefix = [0] * n
-        prefix[0] = 1 if nums[0]==0 else 0
+        prefix = 0
+        count = 0
 
-        for i in range(1, n):
+        for i in range(0, n):
             if nums[i] == 0:
-                prefix[i] = max(1, prefix[i-1]+1)
+                prefix += 1
+            else:
+                prefix = 0
 
-        return sum(prefix)
+            count+=prefix
+
+        return count 
 
 
             
