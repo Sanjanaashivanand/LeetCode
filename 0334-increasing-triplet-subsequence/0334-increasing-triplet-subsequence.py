@@ -1,31 +1,27 @@
-'''
-In: Array of integers (pos and neg)
-Ou: boolean (true, false)
+class Solution(object):
+    def increasingTriplet(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        n = len(nums)
+        i = 0
+        j = 0
 
-To Do:  check is there is a triplet such that 3 consecutive numbers are in increasing order
+        minSoFar = [0] * n
+        maxSoFar = [0] * n
 
-[0,4,2,1,0,-1,-3]
+        minSoFar[0] = nums[0]
+        maxSoFar[-1] = nums[-1]
 
-Idea: to retain the smallest elements in the queue
-f = 20 s = 100
-
-10: f = 10
-
-
-'''
-
-class Solution:
-    def increasingTriplet(self, nums: List[int]) -> bool:
-        f = nums[0]
-        s = float('inf')
-
-        for i in range(0, len(nums)):
-            if nums[i] <= f:
-                f = nums[i]
-            elif nums[i] <= s:
-                s = nums[i]
-            else:
-                return True
+        for i in range(1,n):
+            minSoFar[i] = min(nums[i], minSoFar[i-1])
+            maxSoFar[n-i-1] = max(nums[n-i-1], maxSoFar[n-i])
         
+        for i, num in enumerate(nums):
+            if minSoFar[i] < num < maxSoFar[i]:
+                return True 
+
         return False
 
+            
