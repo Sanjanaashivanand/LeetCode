@@ -249,6 +249,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3429-special-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3825-apply-substitutions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3825-apply-substitutions) |
@@ -1251,6 +1252,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
