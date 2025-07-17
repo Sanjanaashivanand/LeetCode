@@ -4,13 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        count = 0
         candidate = -1
+        count = 0
+
         for num in nums:
             if count == 0:
-                candidate = num
+                candidate = num 
 
-            count += 1 if num == candidate else -1
+            count += 1 if candidate == num else -1
 
         return candidate
-        
