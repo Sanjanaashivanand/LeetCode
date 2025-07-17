@@ -218,6 +218,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -1392,6 +1393,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
