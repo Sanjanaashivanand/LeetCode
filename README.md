@@ -1072,6 +1072,7 @@
 | [0206-reverse-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0355-design-twitter) |
+| [0369-plus-one-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0460-lfu-cache) |
 | [0817-design-hashmap](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0817-design-hashmap) |
@@ -1411,6 +1412,7 @@
 | [0231-power-of-two](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0279-perfect-squares) |
+| [0369-plus-one-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0369-plus-one-linked-list) |
 | [0371-sum-of-two-integers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0445-add-two-numbers-ii) |
