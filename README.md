@@ -205,6 +205,7 @@
 | [1791-richest-customer-wealth](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -451,6 +452,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-sorting-the-sentence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1285,6 +1287,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -1351,6 +1354,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2165-plates-between-candles](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2165-plates-between-candles) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
