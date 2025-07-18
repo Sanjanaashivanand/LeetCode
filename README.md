@@ -219,6 +219,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -854,6 +855,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -1285,6 +1287,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
