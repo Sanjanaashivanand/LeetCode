@@ -216,6 +216,7 @@
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2107-find-unique-binary-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2139-detect-squares](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2139-detect-squares) |
 | [2165-plates-between-candles](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2165-plates-between-candles) |
@@ -1362,6 +1363,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2165-plates-between-candles](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2165-plates-between-candles) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -1591,6 +1593,7 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Segment Tree
 |  |
 | ------- |
