@@ -388,6 +388,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2481-strictly-palindromic-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1351,6 +1352,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Memoization
 |  |
@@ -1405,6 +1407,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
