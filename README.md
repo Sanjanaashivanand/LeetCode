@@ -169,6 +169,7 @@
 | [1073-number-of-enclaves](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1105-uncrossed-lines) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -311,6 +312,7 @@
 | [0889-buddy-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -439,6 +441,7 @@
 | [0985-bag-of-tokens](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1397-search-suggestions-system](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
@@ -528,6 +531,7 @@
 | [0889-buddy-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1119-robot-bounded-in-circle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1250-longest-common-subsequence) |
