@@ -250,6 +250,7 @@
 | [3321-type-of-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3429-special-array-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3429-special-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1172,6 +1173,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3447-clear-digits](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
