@@ -456,6 +456,7 @@
 | [2636-maximum-subsequence-score](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3321-type-of-triangle) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3647-zero-array-transformation-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## String
 |  |
@@ -641,6 +642,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3825-apply-substitutions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3825-apply-substitutions) |
 ## Design
 |  |
@@ -1130,6 +1132,7 @@
 | [1492-time-needed-to-inform-all-employees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1163,6 +1166,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Simulation
 |  |
 | ------- |
