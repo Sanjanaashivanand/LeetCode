@@ -199,6 +199,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1791-richest-customer-wealth](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -320,6 +321,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1512-design-underground-system](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1512-design-underground-system) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
