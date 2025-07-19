@@ -4,21 +4,21 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        res = 0
-        window = set() 
-        i = 0
+        i = 0 
         j = 0
-        
-        while j < len(s):
+        window = set()
+        n = len(s)
+        res = 0
+
+        while j < n:
             if s[j] not in window:
                 window.add(s[j])
+                res = max(j-i+1, res)
                 j+=1
-                res = max(res, len(window))
+
             else:
-                window.remove(s[i])
-                i+=1
+                while s[j] in window:
+                    window.remove(s[i])
+                    i+=1
 
         return res
-
-
-        
