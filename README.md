@@ -131,6 +131,7 @@
 | [0518-coin-change-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0630-course-schedule-iii) |
@@ -317,6 +318,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0460-lfu-cache](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0740-delete-and-earn) |
@@ -1346,6 +1348,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
