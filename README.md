@@ -458,6 +458,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1397-search-suggestions-system](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1483-rank-teams-by-votes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -658,6 +659,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1428-jump-game-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1168,6 +1170,7 @@
 | [0904-leaf-similar-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1205,6 +1208,7 @@
 | [0904-leaf-similar-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -1607,6 +1611,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Quickselect
 |  |
 | ------- |
