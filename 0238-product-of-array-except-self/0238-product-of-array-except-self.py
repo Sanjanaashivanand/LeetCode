@@ -1,4 +1,3 @@
-
 class Solution(object):
     def productExceptSelf(self, nums):
         """
@@ -6,19 +5,20 @@ class Solution(object):
         :rtype: List[int]
         """
         n = len(nums)
-        prod = 1
-
         prefix = [0] * n
+        prod = 1
         for i in range(0, n):
             prefix[i] = prod
-            prod = prod * nums[i]
-
-        prod = 1
-
-        for i in range(n-1, -1, -1):
-            prefix[i] = prefix[i] * prod
             prod *= nums[i]
 
-        return prefix
+        suffix = [0] * n
+        prod = 1
+        for i in range(n-1, -1, -1):
+            suffix[i] = prod
+            prod *= nums[i]
 
-        
+        ans = [0] * n
+        for i in range(0, n):
+            ans[i] = prefix[i] * suffix[i]
+
+        return ans
