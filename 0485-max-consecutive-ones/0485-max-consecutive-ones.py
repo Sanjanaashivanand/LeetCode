@@ -5,11 +5,14 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        prefix = [0] * (n)
-        prefix[0] = 1 if nums[0] == 1 else 0 
+        prefix = 1 if nums[0] == 1 else 0
+        res = 1 if nums[0] == 1 else 0 
 
         for i in range(1, n):
             if nums[i] == 1:
-                prefix[i] = prefix[i-1] + 1
+                prefix += 1
+                res = max(res, prefix)
+            else:
+                prefix = 0
 
-        return max(prefix)
+        return res
