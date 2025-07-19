@@ -233,6 +233,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2360-substring-with-largest-variance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2360-substring-with-largest-variance) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -1317,6 +1318,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2360-substring-with-largest-variance](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2360-substring-with-largest-variance) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
