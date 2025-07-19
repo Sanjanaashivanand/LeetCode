@@ -2,6 +2,7 @@ class Logger(object):
 
     def __init__(self):
         self.traffic = {}
+        self.q = deque()
         
 
     def shouldPrintMessage(self, timestamp, message):
@@ -10,13 +11,14 @@ class Logger(object):
         :type message: str
         :rtype: bool
         """
-        if message not in self.traffic:
-            self.traffic[message] = timestamp  
-            return True
+        while self.q and timestamp - self.q[0][0] >= 10:
+            old_time, old_message = self.q.popleft()
+            if self.traffic[old_message] == old_time:
+                del self.traffic[old_message]
 
-        prev = self.traffic[message]
-        if timestamp - prev >= 10:
+        if message not in self.traffic:
             self.traffic[message] = timestamp
+            self.q.append((timestamp, message))
             return True
 
         return False
