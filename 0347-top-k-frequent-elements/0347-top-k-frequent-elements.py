@@ -6,16 +6,13 @@ class Solution(object):
         :rtype: List[int]
         """
         count = Counter(nums)
+        heap = []
 
-        sort_count = sorted(count, key = lambda x: count[x], reverse=True)
+        for key in count:
+            heappush(heap, (count[key], key))
+            if len(heap) > k:
+                heappop(heap) 
 
-        res = []
-        
-        for key in sort_count:
-            res.append(key)
-            if len(res) == k:
-                break
-
-        return res
+        return [item[1] for item in heap]  
             
             
