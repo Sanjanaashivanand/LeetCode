@@ -126,6 +126,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0542-01-matrix) |
@@ -920,6 +921,7 @@
 | [0155-min-stack](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0735-asteroid-collision) |
@@ -948,6 +950,7 @@
 | [0042-trapping-rain-water](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
