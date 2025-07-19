@@ -685,6 +685,7 @@
 | [0359-logger-rate-limiter](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0460-lfu-cache) |
+| [0716-max-stack](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0716-max-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0838-design-linked-list) |
@@ -927,6 +928,7 @@
 | [0503-next-greater-element-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0682-baseball-game) |
+| [0716-max-stack](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -1109,6 +1111,7 @@
 | [0369-plus-one-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0460-lfu-cache) |
+| [0716-max-stack](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0716-max-stack) |
 | [0817-design-hashmap](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0860-design-circular-queue) |
@@ -1564,6 +1567,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0716-max-stack](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0716-max-stack) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Sanjanaashivanand/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Counting Sort
 |  |
@@ -1587,6 +1591,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0460-lfu-cache) |
+| [0716-max-stack](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0716-max-stack) |
 | [1582-design-browser-history](https://github.com/Sanjanaashivanand/LeetCode/tree/master/1582-design-browser-history) |
 ## Binary Search Tree
 |  |
