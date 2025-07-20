@@ -162,6 +162,7 @@
 | [0890-lemonade-change](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0932-monotonic-array) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0952-word-subsets](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Sanjanaashivanand/LeetCode/tree/master/0971-shortest-bridge) |
