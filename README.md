@@ -278,6 +278,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3825-apply-substitutions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3825-apply-substitutions) |
 ## Hash Table
 |  |
@@ -375,6 +376,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3825-apply-substitutions](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3825-apply-substitutions) |
 ## Two Pointers
 |  |
@@ -874,6 +876,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sanjanaashivanand/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
